@@ -111,7 +111,7 @@ Digital implementation of the Technological Innovation Management Model proposed
 - **Relation to my work:** this is the instrument through which the thesis model was taken to the companies that took part in the study, and it is described in Chapter 6 of the thesis. It remains connected to my current research on innovation management for ICT SMEs.
 - **Live application:** <https://presleyson.github.io/AgitarCanvas/>
 
-### [Fini Sete Lagoas](https://github.com/presleyson/finisetelagoas)
+### [Infinitas](https://github.com/presleyson/finisetelagoas)
 
 Website, sales CRM and operations management for Fini Sete Lagoas, the official Fini franchise in Sete Lagoas, MG, published at [infinitas.kids](https://infinitas.kids).
 
