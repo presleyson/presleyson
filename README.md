@@ -1,6 +1,6 @@
 <div align="center">
 
-# Presleyson Lima, Ph.D.
+# Dr. Presleyson Plínio de Lima
 
 **Technological Innovation Management · Information Technology · Information Security**
 
