@@ -40,14 +40,20 @@ Alongside my executive work, I teach in higher education, supervise undergraduat
 
 | Degree | Institution | Period |
 | --- | --- | --- |
-| **Post-Doctorate** in Information and Communication Technology and Knowledge Management | Universidade FUMEC, Belo Horizonte | 2026 – 2027 |
-| **Ph.D.** in Information and Communication Technology and Knowledge Management | Universidade FUMEC, Belo Horizonte | 2021 – 2024 |
-| **M.Sc.** in Information Systems and Knowledge Management | Universidade FUMEC, Belo Horizonte | 2018 – 2020 |
+| **Post-Doctorate** in Information and Communication Technology and Knowledge Management | Universidade FUMEC | 2026 – 2027 |
+| **Ph.D.** in Information and Communication Technology and Knowledge Management | Universidade FUMEC | 2021 – 2024 |
+| **M.Sc.** in Information Systems and Knowledge Management | Universidade FUMEC | 2018 – 2020 |
+| **MBA** in Cybersecurity and Cybercrime | Universidade Norte do Paraná (UNOPAR) | 2023 – 2024 |
+| **MBA** in Digital Marketing | Universidade Norte do Paraná (UNOPAR) | 2021 |
+| **Postgraduate Specialization** in Information Security | Universidade Norte do Paraná (UNOPAR) | 2021 |
+| **Postgraduate Specialization** in Cloud Computing Projects and Architectures | Universidade Norte do Paraná (UNOPAR) | 2021 |
+| **Postgraduate Specialization** in Compliance and Risk Management | Universidade Norte do Paraná (UNOPAR) | 2020 – 2021 |
+| **MBA** in Commercial Management | Universidade Norte do Paraná (UNOPAR) | 2020 – 2021 |
 | **MBA** in Project Management | PUC Minas | 2019 – 2020 |
-| **MBA** in Project Management | Ibmec, Belo Horizonte | 2007 – 2009 |
+| **MBA** in Project Management | Ibmec | 2007 – 2009 |
 | **B.Sc.** in Information Systems | PUC Minas | 2001 – 2005 |
 
-Additional training: postgraduate specialization in Risk and Compliance, and a technical diploma in Data Processing.
+Additional training: technical diploma in Data Processing.
 
 **Doctoral thesis:** *Modelo de Gestão da Inovação Tecnológica para Pequenas e Médias Empresas de Tecnologia da Informação e Comunicação*, defended on April 2, 2024, under the supervision of Prof. Dr. Luiz Cláudio Gomes Maia.
 
