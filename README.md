@@ -40,6 +40,7 @@ Alongside my executive work, I teach in higher education, supervise undergraduat
 
 | Degree | Institution | Period |
 | --- | --- | --- |
+| **Post-Doctorate** in Information and Communication Technology and Knowledge Management | Universidade FUMEC, Belo Horizonte | 2026 – 2027 |
 | **Ph.D.** in Information and Communication Technology and Knowledge Management | Universidade FUMEC, Belo Horizonte | 2021 – 2024 |
 | **M.Sc.** in Information Systems and Knowledge Management | Universidade FUMEC, Belo Horizonte | 2018 – 2020 |
 | **MBA** in Project Management | PUC Minas | 2019 – 2020 |
